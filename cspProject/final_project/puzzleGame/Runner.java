@@ -6,11 +6,11 @@ public class Runner extends PApplet {
 
 	public static void main(String[] args) {
 //		PApplet.main("puzzleGame.Runner");
-		System.out.println("");
+		System.out.println("a");
 	}
 	
 	public void settings(){
-		size(640, 480);
+//		size(640, 480);
 	}
 	
 	public void setup() {
